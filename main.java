@@ -3,5 +3,6 @@ public class main {
         System.out.println("Hello DLP");
         System.out.println("Tôn code xong oòi nha");
         System.out.println("Tôn bị đuổi");
+         System.out.println("Tôn dc tuyen");
     }
 }
