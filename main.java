@@ -1,5 +1,7 @@
 public class main {
     public static void main(String[] args) {
-        System.out.println("Hello DLP);
+        System.out.println("Hello DLP");
+        System.out.println("Tôn code xong oòi nha");
+
     }
 }
